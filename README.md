@@ -3,10 +3,10 @@
 API service for cinema management written on Django REST Framework
 
 ## Installing using GitHub:
-Install PostgreSQL and create db.
+Install PostgresSQL and create db.
 ```
 git clone https://github.com/AlexandrZhezheria/drf-cinema-api.git
-cd DRF-Cinema-API
+cd drf_cinema_api
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
