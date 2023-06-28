@@ -22,13 +22,13 @@ SECRET_KEY={SECRET_KEY}
 ```
 On Linux run:
 ```
-mv .env.sample .env
+mv .env_sample .env
 source .env
 sh start.sh
 ```
 On Windows run:
 ```
-mv env.bat.sample env.bat
+ren .env_sample .env
 env.bat
 bash start.sh
 ```
